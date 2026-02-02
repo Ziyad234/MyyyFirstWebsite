@@ -1,0 +1,41 @@
+body{
+    
+    background: linear-gradient(to top, rgba(0,0,0,0.8), transparent 80%),
+    linear-gradient(to right,rgba(0,0,0,0.8), transparent 80%), linear-gradient(to left,rgba(0,0,0,0.8), transparent 80%),
+    url("the_netflix_login_background__canada__2024___by_logofeveryt_dh0w8qv-pre.jpg");
+    
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+
+.logo{
+    color:red;
+}
+
+.font2{
+    text-align: center;
+    color:white;
+    padding-top: 150px;
+    font-family: arial;
+}
+
+.butang{
+    width: 400px;
+    height: 40px;
+    background-color: #212426;
+    color: white;
+    border-radius: 5px;
+}
+
+.get{
+    width: 170px;
+    height: 55px;
+    background-color: red;
+    color: white;
+    font-size: 15;
+    
+}
+
